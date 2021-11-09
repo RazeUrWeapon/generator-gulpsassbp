@@ -2,7 +2,7 @@
 
 A Yeoman generator that creates a Gulp and Sass boilerplate.
 
-Based off of the [Coder Coder](https://www.youtube.com/watch?v=NgaV7503dTk&t=191s)'s YouTube video.
+Based off the [Coder Coder](https://www.youtube.com/watch?v=NgaV7503dTk&t=191s)'s YouTube video.
 
 - Links she attributed:
     - [Yeoman Website](https://yeoman.io/)

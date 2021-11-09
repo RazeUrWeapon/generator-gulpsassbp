@@ -1,0 +1,23 @@
+{
+  "name": "generator-gulpsassbp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RazeUrWeapon/generator-gulpsassbp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RazeUrWeapon/generator-gulpsassbp/issues"
+  },
+  "homepage": "https://github.com/RazeUrWeapon/generator-gulpsassbp#readme",
+  "description": "",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  }
+}
